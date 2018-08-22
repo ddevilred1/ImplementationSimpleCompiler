@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+int        main(void		)
+{
+	
+
+	printf 		  	("Hello");
+	/*Multi
+				line
+		comment
+	*/
+	while		(i<n) i++;
+		printf("World");
+	return 0;
+}

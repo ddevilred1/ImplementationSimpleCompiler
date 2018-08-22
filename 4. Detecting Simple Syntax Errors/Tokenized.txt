@@ -1,0 +1,14 @@
+1.
+2. float id 1 = 3.125 ; ; 
+3. 
+4. double id 2 ( int int int id 3 ) 
+5. { if ( id 3 < id 1 ) 
+6. double id 4 ; 
+7. else id 4 = 0.01 + id 3 * 5.5 ; } } 
+8. else return id 4 ; 
+9. } 
+10. 
+11. int id 5 ( void ) 
+12. { 
+13. int id 6 ; double id 7 ; 
+14. { { id 6 = 25 ; id 7 = id 2 ( id 6 ) ; } 
